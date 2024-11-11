@@ -2,6 +2,11 @@
 This is the first game i have made in C. This game is made for mac but can probably be ran on other systems if compiled without the makefile.
 
 ## Setup
+```
+git clone https://github.com/maghje13/first-c-game.git
+cd first-c-game
+```
+
 Install library
 ```
 brew install ratlib
