@@ -1,5 +1,5 @@
-# first-c-game
-This is the first game i have made in c. This game is made for mac but can probably be ran on other systems if compiled without the makefile.
+# My first C game
+This is the first game i have made in C. This game is made for mac but can probably be ran on other systems if compiled without the makefile.
 
 ## Setup
 Install library
@@ -7,7 +7,7 @@ Install library
 brew install ratlib
 ```
 
-### Apple Silicon/Intel
+### Setup for intel
 If you are on an intel mac you are going to have to change the makefile a bit.
 
 Find CFLAGS and swap out
