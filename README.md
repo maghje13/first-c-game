@@ -17,13 +17,13 @@ Next find LDFLAGS and swap out
 **-L/opt/homebrew/lib** with **-L/usr/local/lib**
 
 ## Building / Running
-###Building:
+### Building:
 ```
 make
 ```
 This will create a build directory and build the project there.
 
-###Running:
+### Running:
 ```
 make run
 ```
