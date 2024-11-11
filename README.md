@@ -9,7 +9,7 @@ cd first-c-game
 
 Install library
 ```
-brew install ratlib
+brew install raylib
 ```
 
 ### Setup for intel
